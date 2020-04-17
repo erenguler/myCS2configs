@@ -1,3 +1,1 @@
--novid -threads 4 -nod3d9ex1-nod3d9ex -nojoy -high +mat_queue_mode -2 +exec Autoexec 
-
-https://steamshared.com/guide/CSGO-useful-binds
+-tickrate 128 -threads 8 +mat_disable_fancy_blending 1 +mat_specular 0 -d3d9ex -novid +exec Autoexec
