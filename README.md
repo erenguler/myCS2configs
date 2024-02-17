@@ -1,1 +1,1 @@
--tickrate 128 -threads 8 +mat_disable_fancy_blending 1 +mat_specular 0 -d3d9ex -novid +exec Autoexec
+-novid -freq 165 -threads 24 -allow_third_party_software
